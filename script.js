@@ -67,7 +67,7 @@ const routes = {
             Follow evacuation orders immediately. Wear masks and avoid low-lying areas.
             </p>
 
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8TrxrYbjdS8EnGdFso382EyBS8LgktDrUNPWpGIa8Msi70w/viewform"
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfcsy5925Ucx1F2e31kZXzbdEReOIYhhp0dQj6bkezsSSt15Q/viewform"
             target="_blank"
             class="excel-link">
             📝 Volcano Emergency Form
@@ -158,7 +158,7 @@ const routes = {
             Sort, Set in Order, Shine, Standardize, and Sustain a safe workplace.
             </p>
 
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfcsy5925Ucx1F2e31kZXzbdEReOIYhhp0dQj6bkezsSSt15Q/viewform"
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8TrxrYbjdS8EnGdFso382EyBS8LgktDrUNPWpGIa8Msi70w/viewform"
             target="_blank"
             class="excel-link">
             📝 5S Inspection Form
